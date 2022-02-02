@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sinarajabpour1998
 - 👀 I’m interested in php programming
-- 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on laravel
+- 🌱 I’m currently learning vue.js and express
